@@ -1,3 +1,3 @@
-module github.com/devhindo/CreateModule/hello
+module example.com/hello
 
 go 1.21.1

@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
 
-    "github.com/devhindo/CreateModule/greetings"
+    "example.com/greetings"
 )
 
 func main() {

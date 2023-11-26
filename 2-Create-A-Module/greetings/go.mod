@@ -1,3 +1,3 @@
-module github.com/devhindo/CreateModule/greetings
+module example.com/greetings
 
 go 1.21.1
